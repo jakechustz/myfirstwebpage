@@ -1,0 +1,21 @@
+h2.intro{
+width: 75%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: grey;
+}
+
+p.intro{
+width: 50%;
+font-style: italic;
+}
+
+img.intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
