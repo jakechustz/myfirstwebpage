@@ -56,3 +56,6 @@ h1{
   width: 510px;
   background-color: lavender;
 }
+body{
+  background-image: url(https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
+}
