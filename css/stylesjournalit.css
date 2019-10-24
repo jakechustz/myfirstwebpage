@@ -1,0 +1,28 @@
+.aboutme{
+font-style: italic;;
+font-family: 'Times New Roman', Times, serif
+}
+
+.entries{
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+
+h2{
+  color: rgb(67, 34, 97);
+  font-size: 25px;
+}
+
+.name {
+  font-style: normal;
+  color: blue;
+}
+.dates{
+color: chocolate;
+font-style: oblique;
+}
+
+.weeks{
+  font-size: 25px;
+}
