@@ -1,0 +1,17 @@
+.column{
+  width: 300px;
+  float: left;
+  text-align: center;
+}
+.photo1{
+  float: left;
+}
+.photo2{
+  float: right;
+}
+.photo3{
+  float: left;
+}
+h1{
+  size: 30px;
+}
