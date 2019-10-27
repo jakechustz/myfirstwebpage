@@ -1,0 +1,31 @@
+.columns p{
+  width: 300px;
+  float: left;
+  text-align: center;
+  background-color: pink;
+  margin: 4px;
+  padding: 4px;
+}
+
+.columns h3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+}
+
+body{
+  background-color:rgba(133, 234, 238, 0.842);
+}
+
+.columns img{
+  margin: 5px;
+}
+
+.exampleText p{
+  writing-mode:horizontal-tb;
+  border-block: 5px dashed blue;
+}
+
+.exampleText h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: left;
+}
