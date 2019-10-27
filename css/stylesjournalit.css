@@ -5,18 +5,19 @@ font-family: 'Times New Roman', Times, serif
 
 .entries{
 color: black;
-font-family: Verdana, Geneva, Tahoma, sans-serif;  
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
 
 
 h2{
-  color: rgb(67, 34, 97);
-  font-size: 25px;
+  color: rgb(121, 73, 167);
+  font-size: 35px;
 }
 
 .name {
   font-style: normal;
-  color: blue;
+  color: thistle;
 }
 .dates{
 color: chocolate;
@@ -25,4 +26,23 @@ font-style: oblique;
 
 .weeks{
   font-size: 25px;
+}
+
+.entry1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.entry2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.entry3{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+body{
+  background-image: url(https://images.unsplash.com/photo-1557682268-e3955ed5d83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=543&q=80);
 }
